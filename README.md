@@ -1,14 +1,14 @@
-Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
+Project Website With Mono [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
 ==================================================================================================================
 
 This repository contains the files used for generating the [Mono website](http://www.mono-project.com).
 
 The site uses [Jekyll](http://jekyllrb.com), a static site generator. GitHub Pages, where the site is hosted, natively supports Jekyll so every time someone pushes to this repository, the website will be built and updated. For hosting it yourself, see [Setting up a local copy of the website](#setting-up-a-local-copy-of-the-website).
 
-Contributing to the website
+Contribution to the website
 ---------------------------
 
-**Note:** Major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
+**Note:** Such a major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
 
 If you want to edit a page, the easiest way is to click the ![Edit page on GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
 
